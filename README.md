@@ -1,2 +1,2 @@
 # Gists
-Brive gists from s1mple team.
+Brief gists from s1mple team.
